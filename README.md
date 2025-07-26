@@ -4,7 +4,7 @@ A Real-world Dataset for Vietnamese Spell Correction
 
 ## Introduction
 
-VSEC is a dataset of Vietnamsese misspellings errors along with their corrections fixed manually. It contains 9341 sentences and 11202 errors in more than 4500 different types, making it the largest public dataset of misspellings for the Vietnamese language.
+VSEC is a dataset of Vietnamsese misspellings errors along with their corrections fixed manually. It contains 9341 sentences and 11202 errors in more than 4500 different types, making it the largest public dataset of misspellings for the Vietnamese language (are you sure!?).
 
 ## Dataset
 
